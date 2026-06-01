@@ -212,37 +212,6 @@ Commit to master branch
 
 ---
 
-## Screenshots
-
-### CodeCommit Repository
-![CodeCommit](screenshots/codecommit-repo.png)
-
-### CodeDeploy – QA Deployment Group
-![CodeDeploy QA](screenshots/codedeploy-qa.png)
-
-### CodeDeploy – Production Deployment Group
-![CodeDeploy Production](screenshots/codedeploy-prod.png)
-
-### CodePipeline – All Stages Overview
-![CodePipeline](screenshots/codepipeline-stages.png)
-
-### CodePipeline – QA Stage Success
-![QA Success](screenshots/codepipeline-qa-success.png)
-
-### CodePipeline – Production Stage Success
-![Prod Success](screenshots/codepipeline-prod-success.png)
-
-### Elastic Beanstalk Environment
-![Elastic Beanstalk](screenshots/elasticbeanstalk-env.png)
-
-### Full Pipeline Execution – Success
-![Pipeline Success](screenshots/pipeline-success.png)
-
-### Website Running on EC2 Production
-![Website EC2](screenshots/website-ec2.png)
-
-### Website Running on Elastic Beanstalk
-![Website Beanstalk](screenshots/website-beanstalk.png)
 
 ---
 
